@@ -4,4 +4,4 @@
 
 このリポジトリは尾原研における、実験のための
 制御システムと解析ソフトウエアの開発と公開
-[DOCS](https://ohara-lab-su.github.io/)です
+[DOCS](https://ohara-lab-su.github.io/)を目的としています
