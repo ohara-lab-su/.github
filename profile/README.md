@@ -1,8 +1,3 @@
-# 島根大学 尾原研究室 | github
-
-[研究室HP](https://ohara.mat.shimane-u.ac.jp/) / [ohara-lab-su (docs)](https://ohara-lab-su.github.io/) / [PyPI](https://pypi.org/user/ohara-lab)
-
-
 # 島根大学 尾原研究室 | Ohara Lab
 
 [研究室HP](https://ohara.mat.shimane-u.ac.jp/) / [Documentation](https://ohara-lab-su.github.io/) / [PyPI](https://pypi.org/user/ohara-lab/)
